@@ -1,0 +1,412 @@
+{
+  "WD06000": {
+    "brand": "RIDGID",
+    "capacity": "6 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf4000-filter",
+    "evidence_type": "direct_model_confirmation",
+    "verified": "2026-08-27"
+  },
+  "WD06200": {
+    "brand": "RIDGID",
+    "capacity": "6 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf4000-filter",
+    "evidence_type": "direct_model_confirmation",
+    "verified": "2026-08-27"
+  },
+  "WD06250": {
+    "brand": "RIDGID",
+    "capacity": "6 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf4000-filter",
+    "evidence_type": "direct_model_confirmation",
+    "verified": "2026-08-27"
+  },
+  "WD0670": {
+    "brand": "RIDGID",
+    "capacity": "6 gallon",
+    "hose": "1-7/8 in",
+    "status": "Discontinued",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3503",
+    "bag_note": null,
+    "source": "https://store.ridgid.com/us/en/6-gallon-wet-dry-vac",
+    "evidence_type": "manufacturer_product_page",
+    "verified": "2026-08-27"
+  },
+  "WD08000": {
+    "brand": "RIDGID",
+    "capacity": "8 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf4000-filter",
+    "evidence_type": "direct_model_confirmation",
+    "verified": "2026-08-27"
+  },
+  "WD09450": {
+    "brand": "RIDGID",
+    "capacity": "9 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000",
+      "VF8000"
+    ],
+    "bag": null,
+    "bag_note": "This older model is not designed to use dust collection bags.",
+    "source": "https://www.ridgid.com/us/en/vf3502-dust-bag",
+    "evidence_type": "explicit_exception",
+    "verified": "2026-08-27"
+  },
+  "WD0970": {
+    "brand": "RIDGID",
+    "capacity": "9 gallon",
+    "hose": "1-7/8 in",
+    "status": "Discontinued",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3503",
+    "bag_note": null,
+    "source": "https://store.ridgid.com/us/en/6-gallon-wet-dry-vac",
+    "evidence_type": "manufacturer_product_page",
+    "verified": "2026-08-27"
+  },
+  "WD09701": {
+    "brand": "RIDGID",
+    "capacity": "9 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf4000-filter",
+    "evidence_type": "direct_model_confirmation",
+    "verified": "2026-08-27"
+  },
+  "WD10220": {
+    "brand": "RIDGID",
+    "capacity": "10 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3503",
+    "bag_note": null,
+    "source": "https://store.ridgid.com/us/en/6-gallon-wet-dry-vac",
+    "evidence_type": "manufacturer_product_page",
+    "verified": "2026-08-27"
+  },
+  "WD12000": {
+    "brand": "RIDGID",
+    "capacity": "12 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000",
+      "VF8000"
+    ],
+    "bag": null,
+    "bag_note": "This older model is not designed to use dust collection bags.",
+    "source": "https://www.ridgid.com/us/en/vf3502-dust-bag",
+    "evidence_type": "explicit_exception",
+    "verified": "2026-08-27"
+  },
+  "WD12450": {
+    "brand": "RIDGID",
+    "capacity": "12 gallon",
+    "hose": "2-1/2 in",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "This older model is not designed to use dust collection bags.",
+    "source": "https://www.ridgid.com/us/en/vf3502-dust-bag",
+    "evidence_type": "explicit_exception",
+    "verified": "2026-08-27"
+  },
+  "WD12500": {
+    "brand": "RIDGID",
+    "capacity": "12 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "This older model is not designed to use dust collection bags.",
+    "source": "https://www.ridgid.com/us/en/vf3502-dust-bag",
+    "evidence_type": "explicit_exception",
+    "verified": "2026-08-27"
+  },
+  "WD12700": {
+    "brand": "RIDGID",
+    "capacity": "12 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3502",
+    "bag_note": null,
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD14500": {
+    "brand": "RIDGID",
+    "capacity": "14 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3502",
+    "bag_note": null,
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD14800": {
+    "brand": "RIDGID",
+    "capacity": "14 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD16400": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD16500": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "This older model is not designed to use dust collection bags.",
+    "source": "https://www.ridgid.com/us/en/vf3502-dust-bag",
+    "evidence_type": "explicit_exception",
+    "verified": "2026-08-27"
+  },
+  "WD16800": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3502",
+    "bag_note": null,
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD18500": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3502",
+    "bag_note": null,
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD18510": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3502",
+    "bag_note": null,
+    "source": "https://cdn2.ridgid.com/resources/media?key=ad9b5827-d2f6-4e21-bb58-3a8b13fe57b4&languageCode=en&type=document",
+    "evidence_type": "manufacturer_manual",
+    "verified": "2026-08-27"
+  },
+  "WD18511": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD19500": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3502",
+    "bag_note": null,
+    "source": "https://www.ridgid.com/us/en/vf4000-filter",
+    "evidence_type": "direct_model_confirmation",
+    "verified": "2026-08-27"
+  },
+  "WD19560": {
+    "brand": "RIDGID",
+    "capacity": "16 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": "VF3502",
+    "bag_note": null,
+    "source": "https://www.ridgid.com/us/en/vf6500-osha-compatible-filter-kit",
+    "evidence_type": "manufacturer_family_rule",
+    "verified": "2026-08-27"
+  },
+  "WD20600": {
+    "brand": "RIDGID",
+    "capacity": "20 gallon",
+    "hose": "Unknown",
+    "status": "Legacy",
+    "filters": [
+      "VF4000",
+      "VF5000",
+      "VF6000",
+      "VF7000"
+    ],
+    "bag": null,
+    "bag_note": "Bag compatibility not yet verified.",
+    "source": "https://www.ridgid.com/us/en/vf4000-filter",
+    "evidence_type": "direct_model_confirmation",
+    "verified": "2026-08-27"
+  }
+}
