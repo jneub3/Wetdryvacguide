@@ -1,11 +1,18 @@
-LAUNCH CANDIDATE
-Generated: 2026-08-27
-Verified seed model pages: 24
-Product reference pages: 7
+WETDRYVACGUIDE LAUNCH PACKAGE v2
+Updated: 2026-08-29
 
-Before public launch:
-1. Choose/verify permanent brand and domain.
-2. Replace YOUR-DOMAIN.example in sitemap.xml and robots.txt.
-3. Perform a final model-by-model evidence QA pass.
-4. Add analytics/Search Console after deployment.
-5. Keep monetization off until initial search data arrives.
+Includes:
+- 24 verified RIDGID model pages
+- 7 product reference pages
+- Retailer purchase links on product pages
+- Improved site navigation
+- Canonical URLs and sitemap prepared for wetdryvacguide.com
+- Custom 404 page
+
+Next launch steps:
+1. Upload/commit this package to GitHub.
+2. Connect wetdryvacguide.com as the GitHub Pages custom domain.
+3. Configure Cloudflare DNS records.
+4. Verify HTTPS.
+5. Add Google Search Console and submit sitemap.xml.
+6. Later replace retailer links with affiliate tracking links after approval.
